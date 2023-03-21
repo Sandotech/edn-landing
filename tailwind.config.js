@@ -5,5 +5,9 @@ module.exports = {
     extend: {},
   },
   darkMode: ['class', '[data-mode="dark"]'],
-  plugins: [],
+  plugins: {
+    tailwindcss: {},
+    autoprefixer: {},
+    ...(process.env.NODE_ENV === 'production' ? { cssnano: {} } : {})
+  },
 }
