@@ -1,5 +1,5 @@
 {
-  "name": "async-landing",
+  "name": "edn-landing",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elsantodeveloper/async-landing.git"
+    "url": "git+https://github.com/elsantodeveloper/edn-landing.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/elsantodeveloper/async-landing/issues"
+    "url": "https://github.com/elsantodeveloper/edn-landing/issues"
   },
-  "homepage": "https://github.com/elsantodeveloper/async-landing#readme",
+  "homepage": "https://github.com/elsantodeveloper/edn-landing#readme",
   "devDependencies": {
     "gh-pages": "^5.0.0",
     "tailwindcss": "^3.2.7"
